@@ -1,0 +1,13 @@
+numpy>=1.26.0
+matplotlib>=3.7.0
+adjustText
+pandas>=1.5.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+seaborn>=0.12.0
+sentencepiece>=0.2.0
+tokenizers>=0.21.0
+ipykernel
+librosa
+mat4py
+tqdm
