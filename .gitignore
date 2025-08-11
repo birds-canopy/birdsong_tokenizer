@@ -1,0 +1,9 @@
+annotation_data/rouge6_annotated/*.aup3
+__pycache__/
+*.pyc
+
+/tmp/
+/data/temp/
+
+*.env
+*.log
